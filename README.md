@@ -46,7 +46,7 @@ Mondragon-2025-Finite-Photon-Packets-PMT-Misinterpretation.pdf  # Camera-ready m
 /LICENSE-CC-BY-4.0          # full CC BY 4.0 text (for PDF/text/images you own)
 /LICENSE-MIT                # MIT text (for code)
 /NOTICE                     # maps directories -> licenses
-//latex/ ...                # LaTeX files -> CC BY 4.0
+/latex/ ...                # LaTeX files -> CC BY 4.0
 /paper/ ...                 # manuscript, figures -> CC BY 4.0
 /code/  ...                 # scripts, notebooks  -> MIT
 </code></pre>
