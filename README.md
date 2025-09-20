@@ -75,7 +75,7 @@ Mondragon-2025-Finite-Photon-Packets-PMT-Misinterpretation.pdf  # Camera-ready m
   version  = {1.0.0},
   orcid    = {https://orcid.org/0009-0004-7868-3021},
   doi      = {10.5281/zenodo.YYYYYYY},
-  url      = {https://doi.org/10.5281/zenodo.YYYYYYY}
+  url      = {https://doi.org/10.5281/zenodo.17166418}
 }
 </code></pre>
 
@@ -84,7 +84,7 @@ Mondragon-2025-Finite-Photon-Packets-PMT-Misinterpretation.pdf  # Camera-ready m
 <h2 id="links">Links</h2>
 <ul>
   <li><strong>arXiv:</strong> <a href="https://arxiv.org/abs/ARXIV_ID">https://arxiv.org/abs/ARXIV_ID</a></li>
-  <li><strong>DOI (Zenodo):</strong> <a href="https://doi.org/10.5281/zenodo.YYYYYYY">https://doi.org/10.5281/zenodo.YYYYYYY</a></li>
+  <li><strong>DOI (Zenodo):</strong> <a href="https://doi.org/10.5281/zenodo.17166418">https://doi.org/10.5281/zenodo.YYYYYYY</a></li>
   <li><strong>ORCID:</strong> <a href="https://orcid.org/0009-0004-7868-3021">https://orcid.org/0009-0004-7868-3021</a></li>
   <li><strong>Repository:</strong> <a href="https://github.com/ToddJoelMondragon/Finite_Photon_Packets-PMT_Misinterpretation">https://github.com/ToddJoelMondragon/Finite_Photon_Packets-PMT_Misinterpretation</a></li>
 </ul>
