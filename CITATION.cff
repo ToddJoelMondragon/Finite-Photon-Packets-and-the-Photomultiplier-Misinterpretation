@@ -12,7 +12,7 @@ license: "CC-BY-4.0"
 
 preferred-citation:
   type: article
-  title: "Finite Photon Packet sand the Photomultiplier Misinterpretation"
+  title: "Finite Photon Packets and the Photomultiplier Misinterpretation"
   authors:
     - family-names: Mondragon
       given-names: Todd Joel
@@ -22,4 +22,4 @@ preferred-citation:
   month: 9
   version: "1.0.0"
   doi: "10.5281/zenodo.16932739"
-  url: "https://doi.org/10.5281/zenodo.16932739"
+  url: "https://doi.org/10.5281/zenodo.17166418"
